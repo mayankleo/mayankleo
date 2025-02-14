@@ -1,4 +1,4 @@
-👋 Hlw, call me mayank.<br>💬 Ask me about programming, technology, and electronics.<br>🌱 I’m currently learning machine learning.<br>🤝 I’m looking for an internship opportunity.<br>📫 you can reach me by E-mail.
+👋 Hlw, call me mayank.<br> I love programming, technology, and electronics.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankleo) 
 
