@@ -59,6 +59,3 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) 
-
-
-# [![](https://visitcount.itsvg.in/api?id=mayankleo&icon=6&color=11)](https://visitcount.itsvg.in)
