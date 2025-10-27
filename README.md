@@ -30,3 +30,5 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankleo&label=Profile%20views&color=0e75b6&style=flat" alt="mayankleo" /> </p>
